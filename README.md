@@ -1,4 +1,4 @@
-# FinanNews - Education and Financial Market
+# Foundations - HTML/CSS
 
 ### 🇺🇸 English
 This is my very first practical study project in web development. It was built as an introduction to **HTML5** and **CSS3** fundamentals, following the classic lessons from the **RBtech** channel (Ricardo Bernardi). It represents the foundation of my coding journey, focusing on structural basics and early styling techniques.
